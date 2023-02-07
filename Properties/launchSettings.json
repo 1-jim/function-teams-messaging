@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "function_teams_messaging": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7015",
+      "launchBrowser": false
+    }
+  }
+}
